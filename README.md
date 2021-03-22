@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goranmitev
-- 👀 I’m interested in React, Javascript, GraphQl, PHP
+- 👀 I’m interested in React, Javascript, GraphQL, PHP
 - 🌱 I’m currently learning everything I can.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me is a good question.
